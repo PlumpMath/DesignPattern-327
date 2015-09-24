@@ -6,4 +6,5 @@ package com.dp.mediator.example2;
  * @data 2015/8/14
  */
 public interface Mediator {
+    int i = 0;
 }
