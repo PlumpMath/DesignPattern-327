@@ -7,4 +7,5 @@ package com.dp.mediator.example2;
  */
 public interface Mediator {
     int i = 0;
+    int y = 1;
 }
